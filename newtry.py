@@ -1162,6 +1162,28 @@ print('\033[0;97m[•] \033[0;92mTRACKING YOUR IP ADDRESS')
 time.sleep(2)
 print("\033[0;97m[•] \x1b[1;92mTHIS IS YOUR IP ADDRESS \x1b[1;91m:\033[1;36m "+ip)
                                           """            
+#------------------[ LOGO-LAKNAT ]-----------------#
+logo=("""\n
+
+██╗  ██╗    ██╗  ██╗     █████╗ 
+
+██║  ██║    ╚██╗██╔╝    ██╔══██╗
+
+███████║     ╚███╔╝     ███████║
+
+██╔══██║     ██╔██╗     ██╔══██║
+
+██║  ██║    ██╔╝ ██╗    ██║  ██║
+
+╚═╝  ╚═╝    ╚═╝  ╚═╝    ╚═╝  ╚═╝
+\033[1;37m----------------------------------------------
+ AUTHOR     : coszX
+ GITHUB     : SECRET 
+ FACEBOOK   : C O S Z X
+ DECODE BY  : coszX DADA
+\033[1;37m-----coszX KO CMD USE GAR VAGYA REXA TERO राम राम-""")
+def banner():
+	print(logo)
 
 
 def clear():
