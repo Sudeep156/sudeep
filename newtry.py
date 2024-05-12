@@ -1163,11 +1163,6 @@ time.sleep(2)
 print("\033[0;97m[•] \x1b[1;92mTHIS IS YOUR IP ADDRESS \x1b[1;91m:\033[1;36m "+ip)
                                           """            
 
-logo=from tkinter import Tk
-
-root = Tk()
-root.iconbitmap(r'C:\Users\Admin\Documents\icon.png')  
-root.mainloop()
 
 def clear():
     os.system("clear")    
