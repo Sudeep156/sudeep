@@ -1536,7 +1536,7 @@ class main_crack():
                 for sr in range(sl):
                     pw.append(input(f'Password {sr+1}: '))
             os.system("clear")
-            print(logo)
+         
             print("\t \033[0;97m[•] \x1b[1;92mUSER IP ADDRESS \x1b[1;91m:\033[1;36m "+ip)           
             print(47*"-")
             print(f'\033[0;97m[•]\x1b[1;92mYOUR TOTAL ID IM FILE: %s ' % len(self.id))
