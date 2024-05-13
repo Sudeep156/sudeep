@@ -1160,7 +1160,7 @@ def animation(u):
 ip = requests.get("https://api.ipify.org").text
 print('\033[0;97m[•] \033[0;92mTRACKING YOUR IP ADDRESS')
 time.sleep(2)
-print("\033[0;97m[•] \x1b[1;92mTHIS IS YOUR IP ADDRESS \x1b[1;91m:\033[1;36m "+ip)
+print("\033[0;97m[•] \x1b[1;92mBHAI TERO IP HO YO\x1b[1;91m:\033[1;36m "+ip)
                                           """            
 #------------------[ LOGO-LAKNAT ]-----------------#
 logo=("""\n
@@ -1183,7 +1183,7 @@ logo=("""\n
  DECODE BY  : coszX DADA
 \033[1;37m-----coszX KO CMD USE GAR VAGYA REXA TERO राम राम-""")
 def banner():
-	print(logo)
+	
 
 
 def clear():
